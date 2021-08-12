@@ -1,5 +1,5 @@
 {
-  "name": "graphQL_Demo",
+  "name": "MERN_with_GraphQL_Initial_Setting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/congmul/graphQL_Demo.git"
+    "url": "git+https://github.com/congmul/MERN_with_GraphQL_Initial_Setting.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/congmul/graphQL_Demo/issues"
+    "url": "https://github.com/congmul/MERN_with_GraphQL_Initial_Setting/issues"
   },
-  "homepage": "https://github.com/congmul/graphQL_Demo#readme",
+  "homepage": "https://github.com/congmul/MERN_with_GraphQL_Initial_Setting#readme",
   "dependencies": {
     "concurrently": "^6.2.1"
   }
