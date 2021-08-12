@@ -1,0 +1,25 @@
+{
+  "name": "graphQL_Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "concurrently \"cd server & npm run watch\" \"cd client && npm start\"",
+    "seed": "cd server && npm run seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congmul/graphQL_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congmul/graphQL_Demo/issues"
+  },
+  "homepage": "https://github.com/congmul/graphQL_Demo#readme",
+  "dependencies": {
+    "concurrently": "^6.2.1"
+  }
+}
